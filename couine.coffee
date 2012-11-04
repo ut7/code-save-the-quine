@@ -1,0 +1,2 @@
+@couine = ->
+  "console.log couine()"
