@@ -1,0 +1,14 @@
+{
+  "name": "code-save-the-quine",
+  "version": "1.0.0",
+  "author": "Emmanuel Gaillot <emmanuel@ut7.fr>",
+  "description": "An exemple of Quine Programming - in (French) CoffeeScript",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ut7/code-save-the-quine.git"
+  },
+  "dependencies": {
+    "coffee-script": "~1.4.0",
+    "jasmine-node": "~1.0.26"
+  }
+}
